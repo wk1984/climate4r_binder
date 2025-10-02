@@ -1,1 +1,1 @@
-FROM santandermetgroup/meteohub
+FROM santandermetgroup/meteohub:20250325

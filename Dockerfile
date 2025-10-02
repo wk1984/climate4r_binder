@@ -1,1 +1,1 @@
-FROM santandermetgroup/climate4r
+FROM santandermetgroup/meteohub

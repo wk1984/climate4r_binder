@@ -26,3 +26,4 @@ dependencies:
   - python             ==3.9.*
   - typing-extensions  ~=3.7.4
   - typing_extensions  ~=3.7.4
+  - jupyterlab         ==4.3.* 

@@ -24,3 +24,5 @@ dependencies:
   #python dependencies
   - tensorflow         ==2.6.*
   - python             ==3.9.*
+  - typing-extensions  ~=3.7.4
+  - typing_extensions  ~=3.7.4

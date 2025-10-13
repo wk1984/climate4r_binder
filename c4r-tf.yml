@@ -24,11 +24,3 @@ dependencies:
   #python dependencies
   - tensorflow         ==2.6.*
   - python             ==3.9.*
-  - jupyterlab
-#  - python-json-logger ==2.0.7
-  - ipykernel          ==6.30.1
-#  - jsonschema         ==4.25.1
-  - jupyter_core       ==5.8.1 
-#  - referencing        ==0.36.2
-#  - jupyter_events     ==0.12.0
-#  - jupyter_server     ==2.16.0

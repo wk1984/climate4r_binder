@@ -8,3 +8,6 @@ RUN conda env list && \
     source activate && \
     conda activate climate4tf && \
     which jupyter
+    
+USER jovyan
+WORKDIR /home/jovyan

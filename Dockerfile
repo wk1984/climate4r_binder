@@ -8,7 +8,7 @@ RUN conda env list && \
     source activate && \
     conda activate climate4tf && \
     which jupyter && \
-	R -e "install.packages("devtools");library(devtools);install_github("jasonleebrown/machisplin")"
+	R -e "install.packages('devtools');library(devtools);install_github('jasonleebrown/machisplin')"
     
 USER jovyan
 WORKDIR /home/jovyan

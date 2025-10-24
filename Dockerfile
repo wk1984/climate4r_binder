@@ -11,3 +11,4 @@ RUN conda env list && \
     
 USER jovyan
 WORKDIR /home/jovyan
+RUN wget https://raw.githubusercontent.com/wk1984/climate4r_binder/refs/heads/main/demo_downscaleR.ipynb

@@ -7,7 +7,7 @@ RUN conda env list && \
     conda init && \
     source activate && \
     conda activate climate4tf && \
-	conda install r-devtools -c conda-forge && \
+	mamba install r-devtools -c conda-forge && \
     which jupyter && \
 	R -e "library(devtools);install_github('jasonleebrown/machisplin')"
     
